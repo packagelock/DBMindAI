@@ -61,7 +61,7 @@ DB_CONFIG = {
 
 ### 3. 配置API密钥
 
-在 `main.py` 中设置您的API密钥：
+在 `config.py` 中设置您的API密钥：
 
 ```python
 BASE_URL = "your_base_url"

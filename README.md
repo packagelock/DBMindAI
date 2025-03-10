@@ -61,7 +61,7 @@ DB_CONFIG = {
 
 ### 3. Configure API Key
 
-Set your API key in `main.py`:
+Set your API key in `config.py`:
 
 ```python
 BASE_URL = "your_base_url"
